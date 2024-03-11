@@ -1,2 +1,2 @@
-![todolist](https://raw.githubusercontent.com/designtochakraui/navbar/main/.gitassets/banner.png)
+![navbar](https://raw.githubusercontent.com/designtochakraui/navbar/main/.gitassets/banner.png)
 Feito com 💚 by DesignToChakraUI 👋🏻
